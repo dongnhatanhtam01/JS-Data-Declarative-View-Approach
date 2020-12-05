@@ -6,7 +6,7 @@ const ourFrom = document.querySelector("#ourForm");
 function loadData() {
     if (localStorage.getItem("backUpData")) {
         data = localStorage.getItem("backUpData");
-    } else console.log("khong co du lieu back up...");
+    } else console.log("There is nothing backed up...");
 }
 loadData();
 render();
