@@ -1,7 +1,7 @@
 # JS-Data-Declarative-View-Approach
 stream of data, and approach View by data-id data-value
 
-05 dec 2020, :face_with_head_bandage: stay at home covid disease
+05 dec 2020, :baby_bottle: stay at home covid disease
 
 Guide:
 
@@ -20,3 +20,4 @@ Guide:
         - executing on specific element
         - stores new data  
         - re-render DOM and update View  
+:baby_bottle: https://codepen.io/dongnhatanhtam01/pen/RwGaqoV?editors=0010
